@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**aanyakaistha-droid/aanyakaistha-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aanya Kaistha 👋
 
-Here are some ideas to get you started:
+First-year B.Tech student at Thapar Institute, learning to build things with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Studying engineering and teaching myself about tech on the side
+- 📚 Currently working through **CS50x** (Harvard's introduction to computer science)
+- 🌱 Just getting started, so my tech stack is growing one step at a time
+- 🎯 Goal: explore major tech domains by the end of my first year in college
+
+## My contribution snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
+</picture>
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aanya-kaistha)

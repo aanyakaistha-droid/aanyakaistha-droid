@@ -14,9 +14,9 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 ## My contribution snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aanyakaistha-droid/aanyakaistha-droid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aanyakaistha-droid/aanyakaistha-droid/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/aanyakaistha-droid/aanyakaistha-droid/output/github-snake.svg" />
 </picture>
 
 ## Connect with me

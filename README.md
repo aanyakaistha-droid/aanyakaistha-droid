@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Aanya Kaistha 👋
 
 First-year B.Tech student at Thapar Institute, learning to build things with code.

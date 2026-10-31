@@ -1,24 +1,22 @@
-# Hi, I'm Aanya Kaistha 👋
+# Hi, I'm Aanya Kaistha
 
 First-year B.Tech student at Thapar Institute, learning to build things with code.
 
 ## About me
 
-🎓 Pursuing B.Tech and building a strong foundation in computer science.
-🧠 Currently working through CS50x — Harvard's Introduction to Computer Science.
-🎯 My goal is to explore major tech domains during my first year and discover where I want to specialize.
+ - Pursuing B.Tech and building a strong foundation in computer science.
+ - Currently working through CS50x — Harvard's Introduction to Computer Science.
+ - My goal is to explore major tech domains during my first year and discover where I want to specialize.
 
  ### 🌱 Currently Learning
 
-- 🧠 Problem-solving and algorithms
-- 💻 C and Python programming
-- 🔧 Git, GitHub, and version control
-- 🚀 Exploring web development
+- Problem-solving and algorithms
+- C programming
+- Git, GitHub, and version control
+- Exploring web development
 
 ## 🛠️ Tech Stack
 
-Languages
-C
 
 ## Connect with me
 

@@ -4,12 +4,29 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 
 ## About me
 
-- 🎓 First-year B.Tech student at Thapar Institute of Engineering & Technology.
-- 💻 Currently working through CS50x by Harvard to strengthen my computer science fundamentals.
-- 🌱 Learning programming, problem-solving, and software development one project at a time.
-- 🔍 Exploring different tech domains to discover what I enjoy building most.
-- 🎯 Goal: Build a strong technical foundation and create projects that solve real problems.
-- 
+🎓 Pursuing B.Tech and building a strong foundation in computer science.
+🧠 Currently working through CS50x — Harvard's Introduction to Computer Science.
+🎯 My goal is to explore major tech domains during my first year and discover where I want to specialize.
+
+ ### 🌱 Currently Learning
+
+- 🧠 Problem-solving and algorithms
+- 💻 C and Python programming
+- 🔧 Git, GitHub, and version control
+- 🚀 Exploring web development
+
+## 🛠️ Tech Stack
+
+Languages
+C
+
+  ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyakaistha-droid&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyakaistha-droid&layout=compact&theme=tokyonight)
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aanya-kaistha)
+
+

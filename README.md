@@ -20,11 +20,6 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 Languages
 C
 
-  ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyakaistha-droid&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyakaistha-droid&layout=compact&theme=tokyonight)
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aanya-kaistha)

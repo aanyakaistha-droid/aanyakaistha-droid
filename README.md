@@ -8,7 +8,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
  - Currently working through CS50x — Harvard's Introduction to Computer Science.
  - My goal is to explore major tech domains during my first year and discover where I want to specialize.
 
- ### Currently Learning
+ ## Currently Learning
 
 - Problem-solving and algorithms
 - C programming

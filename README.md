@@ -5,7 +5,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 ## About me
 
  - Pursuing B.Tech and building a strong foundation in computer science.
- - Currently working through CS50x — Harvard's Introduction to Computer Science.
+ - Currently working on learning fundamentals of web development
  - My goal is to explore major tech domains during my first year and discover where I want to specialize.
 
  ## Currently Learning
@@ -16,6 +16,10 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 - Exploring web development
 
 ## Tech Stack
+
+## Certifications
+
+ - CS50X : Harvard's Introduction to Computer Science
 
 
 ## Connect with me

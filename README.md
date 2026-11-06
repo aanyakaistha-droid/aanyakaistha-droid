@@ -6,6 +6,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 
  - Pursuing B.Tech and building a strong foundation in computer science.
  - Currently working on learning fundamentals of web development
+ - Learning basic DSA
  - My goal is to explore major tech domains during my first year and discover where I want to specialize.
 
  ## Currently Learning

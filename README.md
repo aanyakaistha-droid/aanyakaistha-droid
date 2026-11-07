@@ -13,13 +13,12 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 
 - Problem-solving and algorithms
 - C programming
-- Git, GitHub, and version control
 - Fundamentals of web development
 
 ## Tech Stack
 
 - Languages: C, HTML, CSS
-- 
+- Tools & Platforms : Git, GitHub, VS Code
 
 ## Certifications
 

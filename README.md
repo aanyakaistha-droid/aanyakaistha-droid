@@ -14,7 +14,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 - Problem-solving and algorithms
 - C programming
 - Git, GitHub, and version control
-- Exploring web development
+- Fundamentals of web development
 
 ## Tech Stack
 

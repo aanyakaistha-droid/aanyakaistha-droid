@@ -18,7 +18,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 
 ## Tech Stack
 
-- Programming Languages: C, HTML, CSS
+- Languages: C, HTML, CSS
 - 
 
 ## Certifications

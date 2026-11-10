@@ -18,9 +18,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 ### Languages
 - C
 ### Tools & Platforms
-- Git
-- GitHub
-- Visual Studio Code
+- Git, GitHub, VS Code
 
 ## Certifications
 

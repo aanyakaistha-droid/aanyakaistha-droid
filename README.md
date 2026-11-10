@@ -15,10 +15,14 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 
 ## Tech Stack
 
-- Languages: C
-- Tools & Platforms : Git, GitHub, VS Code
+### Languages
+- C
+### Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
 
-### Certifications
+## Certifications
 
  - CS50X : Harvard's Introduction to Computer Science
 

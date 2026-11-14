@@ -16,7 +16,7 @@ First-year B.Tech student at Thapar Institute, learning to build things with cod
 ## Tech Stack
 
 ### Languages
-- C
+- C, HTML, CSS
 ### Tools & Platforms
 - Git, GitHub, VS Code
 
